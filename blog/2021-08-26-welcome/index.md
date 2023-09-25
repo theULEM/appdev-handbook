@@ -5,9 +5,9 @@ authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[Docusaurus blogging features](https://docusaurus.io/docs/blog![]( are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog![](.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Simply add Markdown files (or folders![]( to the `blog` directory.
 
 Regular blog authors can be added to `authors.yml`.
 
@@ -18,7 +18,7 @@ The blog post date can be extracted from filenames, such as:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg![](
 
 The blog supports tags as well!
 
