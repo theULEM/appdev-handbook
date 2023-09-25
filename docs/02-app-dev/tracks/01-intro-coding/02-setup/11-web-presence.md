@@ -27,4 +27,4 @@ Its primary use is not as a social network but a place we store our code and wor
 
 ### Some additional things to do
 - Use a clear picture of yourself (ideally the same you used on LinkedIn)
-- Use a username that includes your name, ideally, short. (For example, my name is "Dele Omotosho", my usename is @deletosh)
+- Use a username that includes your name, ideally, short. (For example, my name is "Dele Omotosho", my username is @deletosh)

@@ -16,7 +16,7 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'theULEM', // Usually your GitHub org/user name.
-    projectName: 'appdev-handbook', // Usually your repo name.
+    projectName: 'msimbo-handbook', // Usually your repo name.
 
     onBrokenLinks: 'throw', onBrokenMarkdownLinks: 'warn',
 
@@ -50,7 +50,7 @@ const config = {
                     alt: 'Urban League of Eastern Massachusetts', src: 'img/logo.svg',
                 }, items: [{
                     type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Handbook',
-                }, {to: 'https://program.ulem.org', label: 'Classes', position: 'left'}, {
+                }, {to: 'https://programs.ulem.org', label: 'Classes', position: 'left'}, {
                     href: 'https://github.com/theULEM/appdev-handbook', label: 'GitHub', position: 'right',
                 },],
             }, footer: {
@@ -63,7 +63,7 @@ const config = {
                     title: 'Community', items: [{
                         label: 'Slack', href: 'https://app.slack.com/client/T035G916A8M/C0354J3GVPH',
                     }, {
-                        label: 'Courses', href: 'https://program.ulem.org',
+                        label: 'Classes', href: 'https://programs.ulem.org',
                     }, {
                         label: 'Twitter', href: 'https://twitter.com/theULEM',
                     },],

@@ -1,7 +1,6 @@
 ---
 sidebar_position: 5
-title: 'Career Pathways'
-slug: 'career-paths'
+title: 'Other Non-Software Roles'
 ---
 # What if I don't want to be a software developer?
 
