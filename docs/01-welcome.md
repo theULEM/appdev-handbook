@@ -4,9 +4,9 @@ title: Welcome
 slug: /welcome
 ---
 
-# Welcome to MSIMBO Code Academy 
+# Welcome to MSIMBO Academy 
 
-MSIMBO Code Academy is the non-profit web development bootcamp / coding program by The Urban League of Eastern
+MSIMBO Academy is the non-profit web development bootcamp / tech program by The Urban League of Eastern
 Massachusetts.
 This full-stack development program is a 20-week intensive that teaches front-end and back-end subjects
 like JavaScript, React, Node.js, Postgres, NoSQL, HTML, CSS, Amazon Web Services, Git/GitHub, Project Management and

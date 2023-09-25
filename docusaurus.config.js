@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'MSIMBO Code Academy', tagline: 'A Workforce Development Program by ULEM', favicon: 'img/favicon.ico',
+    title: 'MSIMBO Academy', tagline: 'A Workforce Development Program by ULEM', favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
     url: 'https://appdev-handbook.ulem.org', // Set the /<baseUrl>/ pathname under which your site is served
