@@ -57,7 +57,7 @@ const config = {
                 style: 'dark',
                 links: [{
                     title: 'Docs', items: [{
-                        label: 'Getting Started', to: '/docs/intro',
+                        label: 'Getting Started', to: '/docs/welcome',
                     },],
                 }, {
                     title: 'Community', items: [{
