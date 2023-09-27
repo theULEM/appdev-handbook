@@ -97,16 +97,16 @@ People of color who are:
 
     - JavaScript-based Computer Science
 
-    - Databases (PostgreSQL, MongoDB![](
+    - Databases (PostgreSQL, MongoDB)
 
-    - Server Side Development (MERN Stack, Progressive Web Applications![](
+    - Server Side Development (MERN Stack, Progressive Web Applications)
 
     - Browser-Based Technologies (HTML5, CSS, JavaScript, jQuery,
-      Bootstrap![](
+      Bootstrap)
 
-    - Deployment/Command-Line Fundamentals (Vercel, Netlify, Heroku, Docker, Git![](
+    - Deployment/Command-Line Fundamentals (Vercel, Netlify, Heroku, Docker, Git)
 
-    - No-and Low Code Development (AirTable, Xano, Supabase, Backendless, Bubble, WordPress, Zapier, and more![](
+    - No-and Low Code Development (AirTable, Xano, Supabase, Backendless, Bubble, WordPress, Zapier, and more)
 
 ## Program Design
 
@@ -141,7 +141,7 @@ The MSIMBO program is broken into 2 parts:
 
 ### What the Classes are like
 
-Over the next 12 or 24 weeks (additional 6 weeks if you’re taking the __Intro__![](, you'll be attending live, engaging
+Over the next 12 or 24 weeks (additional 6 weeks if you’re taking the __Intro__), you'll be attending live, engaging
 online classes, as well as taking part in various individual and team exercises - working both independently and in
 virtual breakout groups. Homework assignments will give you a chance to put your newly learned skills into practice. The
 aim is to provide you with a comprehensive learning experience, and true insight into what it's like to be a full stack

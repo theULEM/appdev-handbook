@@ -14,7 +14,10 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
-                Are you ready to break barriers and seize the opportunities of the digital world? Take this program and empower yourself with essential digital literacy skills to thrive in today's society.
+                Are you ready to break barriers and seize the opportunities of the digital world? Take this program and
+                empower yourself with essential digital literacy skills to thrive in today's society.
+
+                <pre>coming soon</pre>
             </>
         ),
     },
@@ -23,8 +26,10 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
         description: (
             <>
-                <p>This ULEM program  uses JavaScript, one of the most popular programming languages among developers for 2022 according to Statista, to teach students to create web and mobile applications.
+                <p>This ULEM program uses JavaScript, one of the most popular programming languages among developers for
+                    2022 according to Statista, to teach students to create web and mobile applications.
                 </p>
+                <a href="/docs/app-dev/about">Read more</a>
             </>
         ),
     },
@@ -37,6 +42,7 @@ const FeatureList: FeatureItem[] = [
                     Interface (UI) and User Experience (UX) designers to create it. As new technologies such as
                     Augmented Reality (AR) and Virtual Reality (VR) continue to develop, the demand for UI/UX designers
                     is predicted to grow significantly.</p>
+                <pre>coming soon</pre>
             </>
         ),
     },
